@@ -1,0 +1,25 @@
+p{
+    height: 300px;
+    width: 500px;
+    color: aqua;
+    /*background-image: url("https://media-exp1.licdn.com/dms/image/C4D03AQEyrJ-gIhNW9A/profile-displayphoto-shrink_800_800/0/1653591431351?e=1668643200&v=beta&t=N5OA6T-CgE8_z6L0IZV0jwYCWA6ZOaSHV_JRpNkXEVQ");  */
+    
+    /* border: 3px;
+    border-style: dotted;
+    border-color: red black blue green;
+     */
+    border: 2px dotted green;
+    outline: 10px solid black;
+    outline-style: 40px;
+    text-align: justify;
+    text-align-last: center;
+}
+#d1{
+    border: 1px outset red;
+    
+}
+#d2{
+    
+    border: 2px dotted aquamarine;
+    max-width: 50%;
+}
